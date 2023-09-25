@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersianEden.Factory\PersianEden.Factory.csproj" />
+    <ProjectReference Include="..\PersianEden.Infrastructure\PersianEden.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
